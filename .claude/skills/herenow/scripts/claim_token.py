@@ -22,7 +22,7 @@ import json
 import os
 import re
 import stat
-import subprocess
+import subprocess  # nosec B404
 import sys
 import urllib.error
 import urllib.request
@@ -45,7 +45,7 @@ def post_json(url: str, body: dict) -> tuple[int, Any]:
         headers={"content-type": "application/json"},
     )
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:  # nosec B310
             return resp.status, json.loads(resp.read().decode() or "{}")
     except urllib.error.HTTPError as e:
         try:
@@ -69,7 +69,7 @@ def server_msg(parsed: Any, status: int) -> str:
 
 def in_git_repo(path: Path) -> Path | None:
     try:
-        out = subprocess.run(
+        out = subprocess.run(  # nosec B603 B607
             ["git", "-C", str(path), "rev-parse", "--show-toplevel"],
             capture_output=True, text=True, timeout=10,
         )

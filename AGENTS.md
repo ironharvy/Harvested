@@ -32,9 +32,12 @@ and rules** — it governs how this repo is developed.
 
 ## Style
 
-_The `Idea:` phase appends the style guide here once the idea is nailed down:
-prose register, POV, tense, tone, length target (short story vs. novel), and any
-stylistic constraints. Every later phase honours it._
+- **Register:** Literary but accessible — precise, concrete language; no purple prose, no minimalist affectation. Sentences vary in length. Technical and bureaucratic vocabulary (furnace maintenance, municipal procedure) is used naturally alongside emotional interiority.
+- **POV:** Close third person, anchored to Lena Morrow. Other characters' inner states are revealed only through dialogue, action, and what Lena observes.
+- **Tense:** Past tense.
+- **Tone:** Sombre with dry, dark humour. The horror of soul-harvesting is rendered mundane (maintenance logs, union rules, shift changes); the emotional weight comes from specificity and understatement, not melodrama. Moments of genuine tenderness are earned sparingly.
+- **Length target:** Novelette, ~12,000–18,000 words. Three acts, 9–12 chapters.
+- **Constraints:** No info-dumps — world-building is woven through workplace detail, dialogue, and Lena's observations. Avoid archetypes of the "plucky rebel" or "chosen one"; Lena is a competent, complicit worker forced into action by a personal betrayal. The fantastical elements (souls as fuel, thanalic engineering) are treated as industrial fact, never as wonder or spectacle.
 
 ## Tooling
 

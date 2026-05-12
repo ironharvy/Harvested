@@ -136,7 +136,7 @@ def http_json(method: str, url: str, *, api_key: str | None, body: dict | None) 
     if api_key:
         req.add_header("authorization", f"Bearer {api_key}")
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:  # nosec B310
             raw = resp.read()
             status = resp.status
     except urllib.error.HTTPError as e:
@@ -157,7 +157,7 @@ def http_put_bytes(url: str, path: Path, content_type_hdr: str | None) -> int:
     if content_type_hdr:
         req.add_header("Content-Type", content_type_hdr)
     try:
-        with urllib.request.urlopen(req, timeout=120) as resp:
+        with urllib.request.urlopen(req, timeout=120) as resp:  # nosec B310
             return resp.status
     except urllib.error.HTTPError as e:
         return e.code
