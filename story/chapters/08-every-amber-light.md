@@ -1,0 +1,37 @@
+# Chapter 8: Every Amber Light
+
+On Day Eight, Maren lowered the suppression on B1-4427.
+
+She did it during her mid-morning recalibration round — a routine visit to the containment floor, tool kit in hand, work order logged for a flagged cell in the eastern quadrant's third row. Not B1-4427. A neighbouring cell, B1-4431, which had shown a minor suppression variance on the overnight scan. A legitimate job. And while she was there, kneeling at the rack with her calibration tool and her log sheet, it was a simple matter to reach across to the adjacent cell and adjust the micro-dials by six points. From 99% to 93%. Still green on the console. Still nominal. No flag.
+
+Her hands did not shake. This surprised her, or it would have if she had permitted herself to think about it. She made the adjustment with the same precision she brought to every calibration — the muscle memory of twelve years, the steady fingers of a technician who had never made an error that the quarterly audit could find. She logged the work on B1-4431, packed her tool kit, and climbed back upstairs.
+
+At her console, she pulled up B1-4427's readout. Green. Output nominal. Suppression 93% — displayed as a green indicator indistinguishable from the 99% readings on every other cell in the quadrant. If she had not known what she was looking for, she would not have seen the difference. That was the point. The system's tolerances were designed to absorb minor variance without alarm, because alarm was expensive and minor variance was not, and the people who designed the tolerances had not imagined that a technician might use them as a weapon.
+
+She watched the numbers through the morning. B1-4427's output held steady. The yield-to-depletion estimate continued its slow decline: 7.8 years now. Down from 8.2 when she had first seen the record, eight days ago. The drop was consistent with high-draw extraction loads. At this rate, the soul would be fully depleted in under a decade — a fraction of the thirty-to-fifty-year lifespan of a properly housed, normally loaded containment cell.
+
+Maren pulled up the quadrant view. Forty cells on her screen, each a small rectangle with a colour indicator. Green, green, green, amber, green, green, amber, green. The two ambers were routine degradation flags — cells whose yield-to-depletion had crossed a threshold, triggering a maintenance note but not an alert. She had seen cells go amber and return to green after a recalibration. She had seen cells go amber and stay amber for months, their readouts slowly dimming toward the red that meant depletion: soul consumed, cell empty, logged as exhausted and scheduled for refurbishment.
+
+She had seen this hundreds of times. She had filed the reports. She had not thought about what the transition from amber to red meant, because thinking about it was not in the job description, and because the system had been designed — by smart, practical, sincere people — to ensure that thinking about it was unnecessary. The colour codes were the thought. Green meant the system was working. Amber meant the system was degrading. Red meant the system had consumed what it came for. The colours were a language, and Maren had spoken it fluently for twelve years, and it was only now — staring at the amber indicators on her screen with her mother's cell number pulsing green among them — that she heard what the language was saying.
+
+Every amber light was someone.
+
+Not a cell number. Not a yield-to-depletion estimate. Not an actuarial data point in a Bureau table. Someone. A person who had lived in a house somewhere, who had kept their kettle angled a particular way, who had filled in crossword clues in careful handwriting and left the rest blank. Someone whose soul was now a column of slowly dimming light inside a glass-and-copper cylinder, eroding into the current that powered the tram that rattled through the streets of a city that had never asked their permission.
+
+Maren had known this. She had always known it. The knowledge was not new — it was the thing she had built the numbness to contain, the thing the naming taboo existed to keep at arm's length, the thing every technician in every harvest station understood and agreed, by unspoken consensus, not to say aloud. The souls were people. The cells were graves. The grid was a machine that ran on the dead, and everyone who worked in it — every technician, every clerk, every director — was a gravedigger who had agreed to call the shovel something else.
+
+She looked at the screen. The amber lights blinked their slow, patient rhythm. The green lights held steady. B1-4427 was green, because Maren had kept it green, because the system's tolerances permitted a six-point suppression drop without flagging, because the design assumed that no one would look at a green light and see a woman who had used lavender soap and worried about a damp patch on a kitchen wall.
+
+Maren closed the quadrant view. She opened her shift log. She typed the morning's entries with the same precision she always used, and her face was the same composed blank it always was, and if Jorin glanced over from the adjacent station he would have seen nothing out of the ordinary. He did glance. She did not meet his eyes.
+
+She thought about the eight years left on B1-4427's yield-to-depletion. She thought about the thousands of cells below her, each with its own number and its own estimate and its own slow countdown to exhaustion. She thought about the twelve years she had spent watching the numbers and filing the reports and going home to her quiet flat, and she understood that what she had called numbness was not numbness at all. It was a choice. A daily, hourly, moment-by-moment choice not to see what was in front of her, because seeing it would have meant — would mean — that she had helped.
+
+She had helped. For twelve years, she had helped the grid consume people. She had calibrated the fields that kept them silent. She had monitored the readouts that measured their erosion. She had filed the reports that turned their deaths into data. And she had done it not because she was cruel or because she did not know, but because the work was steady and the coffee was bad and the hum was something you stopped noticing after the second week, and because the system was so ordinary, so procedural, so utterly mundane in its monstrousness that participating in it felt like nothing at all.
+
+Until it didn't.
+
+The afternoon passed. Maren ran the scan. Green, green, amber, green. She filed the reports. She descended to B1 once more, for the legitimate recalibration she had logged that morning, and she walked the aisle between the racks and felt the hum in her teeth and looked at the cells — really looked, for the first time in years — and saw them for what they were: rows and rows of contained people, each one eroding into the current that kept the city alive, each one someone's mother, someone's child, someone's neighbour who filed a crossword in careful handwriting and left the rest blank.
+
+She could not save them. She knew that. She could not open every cell, could not bring down the grid, could not undo twelve years of complicity with a single night's work. She could save one. One soul, from one cell, in one station, in one declining city on the edge of an empire that ran on the dead. It was not enough. It was not close to enough.
+
+She would do it anyway.
