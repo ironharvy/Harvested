@@ -128,6 +128,20 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **Three-chapter resolution:** Kept Act 3 tight — infiltration, release, aftermath — to match the compressed pace of a night that has been building for ten days. No extended falling action; the story ends on the walk out.
 - **Single chapter for the release (11):** The soul's coalescence and dissolution happen in one chapter, not drawn out. The moment of recognition is brief by design (canon: the soul is too damaged for more). Extending it would betray the established rules.
 
+### Enhancers phase — Issue #18, 2026-05-13
+
+- **Per-chapter enhancer structure:** Each of the 12 chapters gets all seven enhancers (Tension, Mystery, Theme alignment, Setup/Payoff, Emotional curve, Twist generator, Easter-egg injector). The guide is prescriptive but not rigid — it tells the chapter-drafting phase where to plant, deepen, or pay off narrative threads without dictating exact sentences.
+- **Cross-chapter summary tables:** Added three summary sections at the end — overall emotional arc, a setup/payoff matrix (15 tracked threads with plant/payoff chapter numbers), a mystery thread table, and thematic pulse points. These give the Chapters phase a quick-reference map alongside the per-chapter detail.
+- **Twist philosophy:** Most chapters do not have traditional plot twists. The "twists" are tonal or expectation-subverting: Jorin's refusal (Ch 6), the compliance audit catching Maren without targeting her (Ch 7), Leth's sincerity as the system's defence (Ch 9), the soul's limitation at release (Ch 11), and the absence of triumph at the end (Ch 12). This matches the story's literary register — reversals live in character and theme, not in plot mechanics.
+- **Easter eggs as recurring motifs:** Rather than one-off cleverness, the easter eggs form motif chains — the hum (Ch 1 → 10 → 11 → 12), the colour amber (Ch 1 → 8), the tram plaque (Ch 1 → 12), the "continue to serve" language (Ch 1/7 → 9). Each recurrence shifts meaning as Maren's awareness changes.
+- **Mystery threads left deliberately unresolved:** Two central questions — why Irina's deferral was skipped and whether her soul truly recognised Maren — are never answered. This is canon: the story's ambiguity is thematic, not a loose end.
+
+## Rejected directions — Enhancers phase
+
+- **Red herrings or false leads:** Considered planting misleading clues (e.g., suggesting Leth personally ordered the fast-tracking). Rejected — the story's power is in systemic ambiguity, not in misdirection that would need debunking.
+- **A chapter-by-chapter word-count or pacing prescription:** Considered adding target lengths per chapter. Rejected — the chapter plan and enhancers give enough structural guidance; micro-managing prose length would constrain the Chapters phase unnecessarily.
+- **Flashback chapters for Irina:** Considered suggesting dedicated flashback scenes showing Irina alive. Rejected — Irina's presence through objects (Ch 4) and the brief coalescence (Ch 11) is more powerful than direct depiction. She is felt, not shown.
+
 ### Chapter Plan editorial corrections — Issue #16, 2026-05-12
 
 - **Act 2 consolidated from 6 to 5 chapters:** Merged the Leth gentle-inquiry chapter and the compliance-audit chapter into a single chapter (now chapter 7). Both scenes serve the same dramatic function — institutional pressure closing in — and combining them tightens Act 2 to the required 3–5 chapter range. All subsequent chapter numbers shifted down by one (total: 12 chapters).
