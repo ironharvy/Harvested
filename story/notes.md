@@ -56,3 +56,22 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **Underground railroad for souls:** Considered an organised resistance network but rejected as too large for this story's scope and too heroic for its tone. The abolitionist movement exists but is marginal and ineffective — Maren acts alone.
 - **Soul communication as routine:** Rejected making soul-speech common. It's rare and deeply unsettling precisely because the suppression usually works. If souls talked regularly, the system would be harder to normalise.
 - **Digital networked records:** Rejected modern database connectivity for the Bureau. Courier-based data transfer creates the record-gap loophole Maren needs and reinforces the institution's deliberate opacity.
+
+### World Bible — Characters phase — Issue #10, 2026-05-12
+
+- **Maren Voss — age 36:** Old enough for twelve years of tenure to feel like a life spent, young enough that walking away is still a choice with consequences. The burn scar on her forearm (second year, containment seal failure) serves as physical evidence of time served.
+- **Maren's defining flaw as narrowness:** Her moral awakening is genuine but initially selfish — she cares about her mother's soul because it is *her mother's*. The story's deeper question is whether that care can widen. This keeps her sympathetic but honest.
+- **Cassan Leth — sincerity as flaw:** Deliberately avoided making him cruel, corrupt, or cynical. His belief in the harvest's moral necessity is genuine, which makes him more effective as an antagonist than a villain would be. His response to Maren's defiance is wounded, not wrathful.
+- **Irina Voss — present only as absence and light:** She has no dialogue, no agency, no scene in which she acts. She exists as Maren's memories and as a luminescence in a glass cell. This keeps her a catalyst rather than a character who might upstage Maren's arc.
+- **Jorin Dael — bounded decency:** He is the story's test of ordinary goodness: decent, aware, and ultimately unwilling to risk what he has. He is not condemned for this. He is what Maren was, two weeks ago.
+- **Poul Hadren — the deferral ambiguity:** Whether Irina's deferral petition was lost through negligence, error, or quiet instruction is left deliberately unresolved. The system's horror is that all three explanations are equally plausible and equally damning.
+- **Supervisor Gren — obstacle as logistics:** Gren is not a character with a moral position; she is a schedule and a set of keys. She represents the system's resistance as pure procedure.
+- **Field teams as off-stage presence:** Kept the siphoning agents as a rumoured, unseen force to preserve the story's station-bound perspective and Maren's limited view of the Bureau.
+
+## Rejected directions — Characters phase
+
+- **A Bureau whistleblower or abolitionist ally:** Considered giving Maren an ideological ally who could articulate the case against the system. Rejected because Maren's aloneness is thematically essential — she is not joining a movement; she is making one private, insufficient gesture.
+- **Leth as secretly corrupt:** Considered making him complicit in a specific cover-up or personally responsible for fast-tracking Irina. Rejected because his sincerity is more frightening than corruption. He is the system working as designed.
+- **Maren's father as a character:** Considered but omitted. Irina is the only family that matters to this story's arc. Adding a father would dilute the focus without deepening the theme.
+- **A romantic subplot or partner for Maren:** Rejected. The story's emotional centre is grief, complicity, and a mother-daughter relationship refracted through institutional violence. Romance would be a distraction.
+- **Named field agents:** Considered introducing a field agent who performed the draw on Irina. Rejected to keep the siphoning abstract and systemic — no single person to blame, which is the point.

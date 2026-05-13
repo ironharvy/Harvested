@@ -4,9 +4,9 @@
 |---|---|---|---|---|---|
 | 1 | Idea | done | `story/idea.md` (+ `## Style` in `AGENTS.md` / `CLAUDE.md`) | merged | |
 | 2 | Premise | done | `story/premise.md` | merged | |
-| 3 | Spine | in-pr | `story/spine.md` | PR pending | |
-| 4 | World Bible — Rules | in-pr | `story/world/rules.md` | PR pending | |
-| 5 | World Bible — Characters | todo | `story/world/characters.md` | | |
+| 3 | Spine | done | `story/spine.md` | merged | |
+| 4 | World Bible — Rules | done | `story/world/rules.md` | merged | |
+| 5 | World Bible — Characters | in-pr | `story/world/characters.md` | PR pending | |
 | 6 | World Bible — Locations | todo | `story/world/locations.md` | | |
 | 7 | World Bible — Timeline | todo | `story/world/timeline.md` | | |
 | 8 | Chapter Plan | todo | `story/chapter_plan.md` | | |
