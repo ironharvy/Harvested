@@ -11,13 +11,12 @@
 
 5. Maren studies the manual override mechanism and suppression calibration tolerances, mapping the extraction as a technical problem because that is the only language her twelve years have given her.
 6. She confides in Jorin Dael over a break-room lunch, testing whether his decency extends past caution; it does not, and she understands without blaming him.
-7. Director Leth, noticing Maren's distraction, calls her to his office for a gentle inquiry that feels, to Maren, like the first pressure of a closing door.
-8. A routine compliance audit flags Maren's recent record queries, and Supervisor Gren's night-shift schedule narrows the viable window for the extraction to a single evening.
-9. Maren monitors B1-4427's accelerating erosion on her console — the yield-to-depletion estimate dropping day by day — and confronts the implication she has been refusing: that every amber readout on every screen is someone's mother, someone's child.
-10. Leth confronts Maren directly, invoking duty, the moral architecture of the harvest, and his genuine belief that the dead owe the living; Maren listens, says nothing that commits her, and walks out knowing she will act tonight.
+7. Director Leth, noticing Maren's distraction, calls her to his office for a gentle inquiry that feels, to Maren, like the first pressure of a closing door; meanwhile a compliance audit flags her recent record queries, and Supervisor Gren's night-shift schedule narrows the viable window to a single evening.
+8. Maren monitors B1-4427's accelerating erosion on her console — the yield-to-depletion estimate dropping day by day — and confronts the implication she has been refusing: that every amber readout on every screen is someone's mother, someone's child.
+9. Leth confronts Maren directly, invoking duty, the moral architecture of the harvest, and his genuine belief that the dead owe the living; Maren listens, says nothing that commits her, and walks out knowing she will act tonight.
 
 ## Act 3 — Resolution
 
-11. Maren enters Station Nine after dark, navigates past Gren's rounds, descends to the B1 containment hall, and reaches cell B1-4427 in the narrow aisle between rows of humming souls.
-12. She removes the suppression sigils, pulls the manual release, and watches her mother's soul coalesce for a single dissolving moment of recognition before scattering into light — already too damaged for more than that.
-13. Maren walks out of Harvest Station Nine into the grey Ashward dawn; the grid keeps humming behind her, and she does not go back.
+10. Maren enters Station Nine after dark, navigates past Gren's rounds, descends to the B1 containment hall, and reaches cell B1-4427 in the narrow aisle between rows of humming souls.
+11. She removes the suppression sigils, pulls the manual release, and watches her mother's soul coalesce for a single dissolving moment of recognition before scattering into light — already too damaged for more than that.
+12. Maren walks out of Harvest Station Nine into the grey Ashward dawn; the grid keeps humming behind her, and she does not go back.
