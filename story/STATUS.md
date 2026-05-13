@@ -9,8 +9,8 @@
 | 5 | World Bible — Characters | done | `story/world/characters.md` | merged | |
 | 6 | World Bible — Locations | done | `story/world/locations.md` | merged | |
 | 7 | World Bible — Timeline | done | `story/world/timeline.md` | merged | |
-| 8 | Chapter Plan | in-pr | `story/chapter_plan.md` | PR pending | |
-| 9 | Enhancers Guide | todo | `story/enhancers.md` | | |
+| 8 | Chapter Plan | done | `story/chapter_plan.md` | merged | |
+| 9 | Enhancers Guide | in-pr | `story/enhancers.md` | PR pending | |
 | 10 | Chapters | todo | `story/chapters/NN-slug.md` | | |
 | 11 | Assemble & Publish | todo | `story/final.md` (+ published URL) | | |
 
