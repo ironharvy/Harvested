@@ -30,9 +30,9 @@
 
 - **~12 years before the story (Maren, 24):** Maren begins work at Harvest Station Nine as a conduit technician. She is competent and quiet. During her second year, a containment seal fails during routine maintenance, burning her left forearm — the faded scar she carries through the story.
 
-- **~8 years before the story:** Maren transfers to a permanent day-shift position in the monitoring centre. She and Jorin Dael begin working adjacent stations. The easy camaraderie between them develops over shared shifts and bad coffee. Maren stops reading names on intake forms around this time — the numbness is complete.
-
 - **~11 years before the story:** Maren moves into her one-bedroom flat in the eastern district, a ten-minute walk from Station Nine — her second year at the station. Her visits to Irina's house in the north quarter grow less frequent. The distance between them — physical and emotional — widens without event or argument. Neither addresses it.
+
+- **~8 years before the story:** Maren transfers to a permanent day-shift position in the monitoring centre. She and Jorin Dael begin working adjacent stations. The easy camaraderie between them develops over shared shifts and bad coffee. Maren stops reading names on intake forms around this time — the numbness is complete.
 
 ## The Story's Present Action
 
