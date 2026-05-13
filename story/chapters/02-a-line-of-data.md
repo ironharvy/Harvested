@@ -6,7 +6,7 @@ Maren was running the intake log at eight-fifteen, the overnight batch scrolling
 
 The fifth entry stopped her.
 
-**Case 20-4427. Voss, Irina E. DOD: [date]. Siphon: [date]. Deferral: 0. Cell assignment: B1-4427. Extraction class: High-draw. Projected Y-t-D: 8.2 yr.**
+**Case 20-4427. Voss, Irina E. DOD: 14.09. Siphon: 14.09. Deferral: 0. Cell assignment: B1-4427. Extraction class: High-draw. Projected Y-t-D: 8.2 yr.**
 
 She read it again. She read it a third time. Her hands, which had been moving toward the keyboard to flag a suppression variance on the previous entry, went still in her lap.
 

@@ -174,3 +174,9 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **A scene with Poul Hadren:** Considered a direct confrontation where Maren questions Poul about the deferral lapse. Rejected — the ambiguity of Poul's role (negligence vs. instruction vs. error) is more powerful unresolved. Maren looks at the paperwork and draws no conclusion, which is the point.
 - **Gren discovering Maren during the extraction:** Considered a near-miss or confrontation with the night supervisor in B1. Rejected — adding a chase or close-call would shift the tone from literary to thriller. The extraction's tension is internal, not procedural.
 - **Irina speaking during the coalescence:** Considered having the soul speak a word or phrase. Rejected — the recognition is more powerful as something felt rather than heard. "Maren" appears as an impression, not as speech, and the ambiguity of whether it was real is essential to the ending.
+
+### Chapters editorial corrections — Issue #20, 2026-05-13
+
+- **Gren's discovery timing fixed (Ch 12):** Original text said Gren would notice the empty cell "by morning." Ch 10 establishes Gren's rounds cycle B2 → B1 in ~40 minutes. Since Maren exits at 11:11 PM and Gren started her B2 round at ~10:30, Gren would reach B1 within the hour — that same night, not the next morning. Corrected to "within the hour."
+- **Dawn imagery removed (Ch 12):** Original text shifted into dawn/morning imagery (lightening sky, bakery lights, trams starting full service) despite the scene taking place around 11:30 PM. Replaced with deep-night imagery consistent with the established timeline. The chapter title "The Grey Ashward Dawn" is retained as metaphor for Maren's personal awakening.
+- **Intake record placeholders filled (Ch 2):** `DOD: [date]. Siphon: [date].` replaced with `DOD: 14.09. Siphon: 14.09.` — same-day processing reinforces the zero-deferral horror established in canon.
