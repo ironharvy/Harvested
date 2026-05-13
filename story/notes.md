@@ -21,3 +21,9 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **Maren as an outsider/rebel from the start:** Would undermine the complicity theme. She needs to have been part of the machine for years before her personal loss cracks her open.
 - **Triumphant ending (Maren destroys the grid):** Too neat. One person extracting one soul doesn't fix a systemic problem, and pretending it does would betray the theme.
 - **Horror/grimdark register:** The horror is more effective when understated. Graphic depictions of soul-suffering would push the story toward genre horror and away from the literary-ethical questions at its centre.
+
+### Premise phase — Issue #4, 2026-05-12
+
+- **Premise structure:** Chose to weave all five required elements (conflict, protagonist goal/motivation, stakes, setting/tone, theme) into a single flowing paragraph rather than bullet points, as the phase spec calls for "one tight Core Premise paragraph." The paragraph escalates from setting → character → inciting incident → opposition → stakes (personal → internal → thematic) → tone/ending, mirroring the story's own arc.
+- **Stakes layering:** Explicitly structured stakes as three concentric rings — personal (mother's soul), internal (Maren's complicity), thematic (systemic participation in monstrous normalcy) — to give later phases clear threads to develop.
+- **Ending signal in premise:** Included the bittersweet/ambiguous ending tone in the premise itself so the Spine and later phases know from the outset not to build toward triumph or despair.
