@@ -14,6 +14,7 @@
 | 10 | Chapters | done | `story/chapters/01–12` | merged | 12 chapters drafted |
 | 11 | Assemble & Publish | in-pr | `story/final.md` (+ published URL) | PR pending | Terminal phase |
 | — | Suno Audiobook — Ch 1 | in-pr | `story/audiobook/ch01-suno-prompts.md` | PR pending | 3 segments, music prompt |
+| — | Image Prompts — Ch 1 | in-pr | `story/illustrations/ch01-image-prompts.md` | PR pending | 7 images (2 characters, 5 locations), Nano Banana Pro |
 
 States: `todo` → `in-pr` (artifact written, PR open) → `done` (PR merged).
 

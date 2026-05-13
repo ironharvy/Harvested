@@ -175,6 +175,21 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **Gren discovering Maren during the extraction:** Considered a near-miss or confrontation with the night supervisor in B1. Rejected — adding a chase or close-call would shift the tone from literary to thriller. The extraction's tension is internal, not procedural.
 - **Irina speaking during the coalescence:** Considered having the soul speak a word or phrase. Rejected — the recognition is more powerful as something felt rather than heard. "Maren" appears as an impression, not as speech, and the ambiguity of whether it was real is essential to the ending.
 
+### Image Prompts — Ch 1 — Issue #27, 2026-05-13
+
+- **7 illustrations for Chapter 1:** 2 character portraits (Maren Voss full-page, Jorin Dael small inset) and 5 location illustrations (tram interior, Station Nine exterior, monitoring centre, B1 containment hall, Maren's flat). Prompts target Nano Banana Pro.
+- **Illustrated-book placement:** Each image placed at the narrative moment its subject appears — tram at the opening, station exterior after the approach, monitoring centre at the workday start, B1 at the descent, flat at the evening return. Full-page treatment for the protagonist and the two most plot-significant locations (station exterior, containment hall).
+- **Consistent palette across all prompts:** Muted greys, tarnished copper, dull amber, washed-out blues. The only warm light is the orange street lamp in the final flat illustration — a deliberate tonal shift marking the transition from work to private life.
+- **Sigil design direction:** Specified that containment cell sigils should look like intricate geometric filigree — beautiful enough to pass for decoration — rather than overtly magical or runic symbols. This preserves the prose's key observation that the horror hides in the mundane.
+- **Text avoidance in prompts:** All prompts describe signage and plaques as objects rather than requesting AI-generated readable text, avoiding a common failure mode in image generation.
+
+## Rejected directions — Image Prompts phase
+
+- **Individual portraits for Fenne (gate guard) or other background characters:** Fenne appears in a single clause; illustrating him would inflate his narrative importance beyond what the text supports.
+- **An image of Maren on the tram (interior POV with her visible):** Considered but the tram illustration works better as an environmental establishing shot — showing the commute's anonymity rather than singling out the protagonist.
+- **Bright or high-contrast colour grading:** Rejected any saturated palette. The story's visual language is overcast, industrial, and muted; vivid colours would undermine the tone of normalised dread.
+- **Showing souls or supernatural elements in B1:** The chapter explicitly states souls are not visible under normal suppression. Showing any luminescence would contradict canon and spoil the reveal in later chapters.
+
 ### Chapters editorial corrections (round 2) — Issue #20, 2026-05-13
 
 - **Burn scar added (Ch 1 setup, Ch 8 payoff):** The character bible establishes a faded burn scar on Maren's left forearm from a containment seal failure in her second year. The enhancers plan explicitly marks it as a Ch 1 setup with payoff in later reflective chapters. Added: Ch 1 — Maren notices the scar when reaching into the cell rack during her B1 recalibration round. Ch 8 — the scar surfaces during Maren's moral reckoning as she reflects on twelve years of complicity; the scar is physical evidence of time served.
