@@ -22,11 +22,13 @@ import json
 import os
 import re
 import stat
-import subprocess
+import shutil
+import subprocess  # nosec B404
 import sys
 import urllib.error
 import urllib.request
 from pathlib import Path
+from urllib.parse import urlparse
 from typing import Any
 
 HERENOW_BASE = "https://here.now"
@@ -40,12 +42,14 @@ def fail(msg: str) -> "NoReturn":  # type: ignore[name-defined]
 
 
 def post_json(url: str, body: dict) -> tuple[int, Any]:
+    if urlparse(url).scheme != "https":
+        fail("refusing to make a non-https request")
     req = urllib.request.Request(
         url, data=json.dumps(body).encode(), method="POST",
         headers={"content-type": "application/json"},
     )
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:  # nosec B310
             return resp.status, json.loads(resp.read().decode() or "{}")
     except urllib.error.HTTPError as e:
         try:
@@ -68,9 +72,12 @@ def server_msg(parsed: Any, status: int) -> str:
 
 
 def in_git_repo(path: Path) -> Path | None:
+    git = shutil.which("git")
+    if git is None:
+        return None
     try:
-        out = subprocess.run(
-            ["git", "-C", str(path), "rev-parse", "--show-toplevel"],
+        out = subprocess.run(  # nosec B603
+            [git, "-C", str(path), "rev-parse", "--show-toplevel"],
             capture_output=True, text=True, timeout=10,
         )
     except (OSError, subprocess.SubprocessError):

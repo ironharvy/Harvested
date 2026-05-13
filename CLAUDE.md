@@ -33,9 +33,17 @@ content as this file.)
 
 ## Style
 
-_The `Idea:` phase appends the style guide here once the idea is nailed down:
-prose register, POV, tense, tone, length target (short story vs. novel), and any
-stylistic constraints. Every later phase honours it._
+- **Prose register:** Literary speculative fiction. Precise, unadorned, mid-register — closer to Kazuo Ishiguro or Kelly Link than to pulp sci-fi. Sentences earn their length; no purple prose, no minimalist affectation.
+- **POV:** Close third person, locked to Maren Voss.
+- **Tense:** Past tense.
+- **Tone:** Melancholy, restrained, and quietly horrifying. The world's monstrousness is presented as mundane because to its inhabitants it is. Moments of warmth exist but are brief and hard-won.
+- **Length target:** Short story / novelette, roughly 8,000–12,000 words.
+- **Stylistic constraints:**
+  - No info-dumps; world-building is revealed through Maren's routine and small physical details (the hum of a containment cell, the form she stamps, the colour of a degraded readout).
+  - Dialogue is spare and functional — people in bureaucracies don't monologue.
+  - The supernatural elements (souls, ghost lights, psychic energy) are treated as engineering facts, not mystical wonders. Technical language is used the way workers use jargon: without awe.
+  - Horror lives in implication and normalisation, never in graphic depiction.
+  - The ending is bittersweet and ambiguous — no triumphant system-toppling, no nihilistic despair.
 
 ## Tooling
 

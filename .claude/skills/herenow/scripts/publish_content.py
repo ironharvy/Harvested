@@ -129,6 +129,8 @@ def collect_files(target: Path) -> list[tuple[str, Path]]:
 
 
 def http_json(method: str, url: str, *, api_key: str | None, body: dict | None) -> tuple[int, Any]:
+    if not is_https(url):
+        die("refusing to make a non-https request")
     data = json.dumps(body).encode() if body is not None else None
     req = urllib.request.Request(url, data=data, method=method)
     if data is not None:
@@ -136,7 +138,7 @@ def http_json(method: str, url: str, *, api_key: str | None, body: dict | None) 
     if api_key:
         req.add_header("authorization", f"Bearer {api_key}")
     try:
-        with urllib.request.urlopen(req, timeout=60) as resp:
+        with urllib.request.urlopen(req, timeout=60) as resp:  # nosec B310
             raw = resp.read()
             status = resp.status
     except urllib.error.HTTPError as e:
@@ -152,12 +154,14 @@ def http_json(method: str, url: str, *, api_key: str | None, body: dict | None) 
 
 
 def http_put_bytes(url: str, path: Path, content_type_hdr: str | None) -> int:
+    if not is_https(url):
+        die("refusing to upload over a non-https connection")
     with path.open("rb") as f:
         req = urllib.request.Request(url, data=f.read(), method="PUT")
     if content_type_hdr:
         req.add_header("Content-Type", content_type_hdr)
     try:
-        with urllib.request.urlopen(req, timeout=120) as resp:
+        with urllib.request.urlopen(req, timeout=120) as resp:  # nosec B310
             return resp.status
     except urllib.error.HTTPError as e:
         return e.code
