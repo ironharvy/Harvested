@@ -35,3 +35,24 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **Final beat tone:** "Nothing had changed except her, and that was not enough, and it was everything" — deliberately ambiguous closing that matches the bittersweet, non-triumphant ending established in the Idea and Premise phases. The grid keeps humming; one act of refusal doesn't dismantle the system.
 - **Fast-tracking detail:** Included the mother's soul being fast-tracked past the grieving deferral as the inciting-incident hook — it's the bureaucratic irregularity that makes the horror personal, not just the death itself.
 - **Erosion as damage:** Established that the freed soul is "damaged beyond recovery" to set up the bittersweet resolution: the rescue succeeds materially but fails emotionally. This is canon for later phases.
+
+### World Bible — Rules phase — Issue #8, 2026-05-12
+
+- **Soul mechanics — siphoning window:** Established a four-minute window after cardiac arrest for the draw. ~15–20% of souls go unharvested (rural, accidents). Keeps the system imperfect and grounded.
+- **Containment cells:** Glass-and-copper cylinders with suppression sigils. Suppressed souls produce steady current; unsuppressed ones may speak. Suppression framed as both engineering and mercy — the Bureau's favourite kind of double justification.
+- **Erosion timeline:** Healthy adult soul lasts 30–50 years. High-draw cells or surge routing can shorten this to five years. Maren's mother was fast-tracked into a high-draw cell, explaining the rapid erosion from the spine.
+- **Bureau structure:** Three tiers (Central Office, Regional Directorate, Station level). Deliberately mirrors a real public utility — underfunded, procedural, self-justifying.
+- **Civic Contribution Act:** Legal basis for harvesting, 187 years old. Souls classified as a "public resource." No opt-out, no religious exemption. The law is old enough to feel like natural law.
+- **Social consensus:** Harvest is civic duty, taught in schools, honoured on Contribution Day. Abolitionist movement exists but is marginal. People don't think about it, and the few who do stop talking about it.
+- **Naming taboo:** Technicians use cell numbers, never names. Reinforces Maren's characterisation — her numbness is the workplace norm, not an aberration.
+- **Manual override (key loophole):** Physical release lever on each cell, legacy safety design. Releases the soul, which disperses in minutes — but if suppression sigils are removed first, the soul may briefly coalesce. This is how Maren's mother recognises her in the final beat.
+- **Record-gap loophole:** Courier-based records create transfer windows where a soul exists in neither station's log. Useful for covering tracks.
+- **Deferral paperwork loophole:** 48-hour filing window for the grieving deferral petition. If missed (no family, clerk error, deliberate omission), the soul enters the grid immediately. This is how Maren's mother was fast-tracked — the petition window was allowed to lapse.
+- **Suppression calibration loophole:** A technician can deliberately miscalibrate a field to keep a soul semi-aware without triggering flags. Quarterly inspection cycle gives weeks of cover.
+
+## Rejected directions — Rules phase
+
+- **Magic system with learnable spells:** Rejected. The soul-harvest technology is empirical engineering, not sorcery. Keeping it as infrastructure-that-happens-to-be-occult preserves the complicity metaphor.
+- **Underground railroad for souls:** Considered an organised resistance network but rejected as too large for this story's scope and too heroic for its tone. The abolitionist movement exists but is marginal and ineffective — Maren acts alone.
+- **Soul communication as routine:** Rejected making soul-speech common. It's rare and deeply unsettling precisely because the suppression usually works. If souls talked regularly, the system would be harder to normalise.
+- **Digital networked records:** Rejected modern database connectivity for the Bureau. Courier-based data transfer creates the record-gap loophole Maren needs and reinforces the institution's deliberate opacity.
