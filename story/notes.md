@@ -27,3 +27,11 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **Premise structure:** Chose to weave all five required elements (conflict, protagonist goal/motivation, stakes, setting/tone, theme) into a single flowing paragraph rather than bullet points, as the phase spec calls for "one tight Core Premise paragraph." The paragraph escalates from setting → character → inciting incident → opposition → stakes (personal → internal → thematic) → tone/ending, mirroring the story's own arc.
 - **Stakes layering:** Explicitly structured stakes as three concentric rings — personal (mother's soul), internal (Maren's complicity), thematic (systemic participation in monstrous normalcy) — to give later phases clear threads to develop.
 - **Ending signal in premise:** Included the bittersweet/ambiguous ending tone in the premise itself so the Spine and later phases know from the outset not to build toward triumph or despair.
+
+### Spine phase — Issue #6, 2026-05-12
+
+- **Abstraction level:** Kept the spine deliberately abstract — no proper names (the technician, the city, her supervisor) — as specified. This lets later phases (World Bible, Chapter Plan) add specificity without being locked to spine-level phrasing.
+- **Beat pacing:** Gave each beat 2–3 sentences. The two "Because of that" beats handle external escalation (bureaucratic walls, supervisor suspicion) and internal escalation (confronting her own complicity) respectively, mirroring the premise's three-ring stakes structure.
+- **Final beat tone:** "Nothing had changed except her, and that was not enough, and it was everything" — deliberately ambiguous closing that matches the bittersweet, non-triumphant ending established in the Idea and Premise phases. The grid keeps humming; one act of refusal doesn't dismantle the system.
+- **Fast-tracking detail:** Included the mother's soul being fast-tracked past the grieving deferral as the inciting-incident hook — it's the bureaucratic irregularity that makes the horror personal, not just the death itself.
+- **Erosion as damage:** Established that the freed soul is "damaged beyond recovery" to set up the bittersweet resolution: the rescue succeeds materially but fails emotionally. This is canon for later phases.
