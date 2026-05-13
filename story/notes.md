@@ -175,6 +175,11 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **Gren discovering Maren during the extraction:** Considered a near-miss or confrontation with the night supervisor in B1. Rejected — adding a chase or close-call would shift the tone from literary to thriller. The extraction's tension is internal, not procedural.
 - **Irina speaking during the coalescence:** Considered having the soul speak a word or phrase. Rejected — the recognition is more powerful as something felt rather than heard. "Maren" appears as an impression, not as speech, and the ambiguity of whether it was real is essential to the ending.
 
+### Chapters editorial corrections (round 2) — Issue #20, 2026-05-13
+
+- **Burn scar added (Ch 1 setup, Ch 8 payoff):** The character bible establishes a faded burn scar on Maren's left forearm from a containment seal failure in her second year. The enhancers plan explicitly marks it as a Ch 1 setup with payoff in later reflective chapters. Added: Ch 1 — Maren notices the scar when reaching into the cell rack during her B1 recalibration round. Ch 8 — the scar surfaces during Maren's moral reckoning as she reflects on twelve years of complicity; the scar is physical evidence of time served.
+- **Dispersal time clarified (Ch 11):** The manual's three-to-five-minute dispersal estimate and the actual ~90-second dispersal were implicitly explained by degradation but not explicitly connected. Added a clause attributing the accelerated dispersal to the high-draw extraction having already stripped the psychic substrate below the threshold the manual's estimate assumes.
+
 ### Chapters editorial corrections — Issue #20, 2026-05-13
 
 - **Gren's discovery timing fixed (Ch 12):** Original text said Gren would notice the empty cell "by morning." Ch 10 establishes Gren's rounds cycle B2 → B1 in ~40 minutes. Since Maren exits at 11:11 PM and Gren started her B2 round at ~10:30, Gren would reach B1 within the hour — that same night, not the next morning. Corrected to "within the hour."
