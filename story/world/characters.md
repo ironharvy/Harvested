@@ -52,7 +52,7 @@
 
 **Relationships:**
 - **Maren Voss** (daughter): They loved each other in the inarticulate way of people who never learned to say it directly. Irina worried about Maren's work — not because she understood what it entailed, but because she sensed what it was doing to her daughter. She never asked Maren to quit. She never asked Maren anything that might require an answer neither of them could bear.
-- **The system:** Irina was an ordinary citizen of Ashward. She accepted the harvest the way she accepted weather. Her own death and siphoning were unremarkable to the Bureau — one more soul, properly processed, except that the deferral petition was never filed.
+- **The system:** Irina was an ordinary citizen of Ashward. She accepted the harvest the way she accepted weather. Her own death and siphoning were unremarkable to the Bureau — one more soul, properly processed, except that her deferral petition — filed within the window — was never processed.
 
 **Aspirations:** In life, small ones — that Maren would visit more, that the damp in the kitchen wall would stop spreading, that things would be all right. In death, none that the Bureau recognises.
 
