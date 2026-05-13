@@ -6,8 +6,8 @@
 | 2 | Premise | done | `story/premise.md` | merged | |
 | 3 | Spine | done | `story/spine.md` | merged | |
 | 4 | World Bible — Rules | done | `story/world/rules.md` | merged | |
-| 5 | World Bible — Characters | in-pr | `story/world/characters.md` | PR pending | |
-| 6 | World Bible — Locations | todo | `story/world/locations.md` | | |
+| 5 | World Bible — Characters | done | `story/world/characters.md` | merged | |
+| 6 | World Bible — Locations | in-pr | `story/world/locations.md` | PR pending | |
 | 7 | World Bible — Timeline | todo | `story/world/timeline.md` | | |
 | 8 | Chapter Plan | todo | `story/chapter_plan.md` | | |
 | 9 | Enhancers Guide | todo | `story/enhancers.md` | | |

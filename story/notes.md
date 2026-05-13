@@ -75,3 +75,22 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **Maren's father as a character:** Considered but omitted. Irina is the only family that matters to this story's arc. Adding a father would dilute the focus without deepening the theme.
 - **A romantic subplot or partner for Maren:** Rejected. The story's emotional centre is grief, complicity, and a mother-daughter relationship refracted through institutional violence. Romance would be a distraction.
 - **Named field agents:** Considered introducing a field agent who performed the draw on Irina. Rejected to keep the siphoning abstract and systemic — no single person to blame, which is the point.
+
+### World Bible — Locations phase — Issue #12, 2026-05-12
+
+- **Ashward geography — River Tyne:** Named Ashward's river the Tyne, giving the city a concrete geographic anchor. The river runs through the industrial district and out to an estuary — the city grew around industry, not beauty.
+- **East/west divide:** Wealthier neighbourhoods and newer stations sit west; the eastern industrial fringe holds Station Nine and the working-class terraces where Maren lives. This class geography means Maren literally lives in the part of the city that does the dirty work.
+- **Station Nine — five-level layout:** Three above ground (intake/admin/monitoring), two below (B1 primary containment, B2 surge/overflow). B2 is worse — poorer lighting, higher extraction loads, an uneven hum. Technicians dislike it without articulating why.
+- **Irina's cell number — B1-4427:** Placed in B1's eastern quadrant (cells 4400–4599), second row, third from the left, shoulder height. Specific enough to make the climax physically real — Maren reaching for a particular cylinder among hundreds.
+- **Station Twelve:** Established a second active harvest station on Ashward's western edge. The two stations together supply the city's grid. Station Twelve is not visited in the story but gives the infrastructure world a sense of scale beyond Nine.
+- **Maren's flat — 10-minute walk from Station Nine:** Geographic proximity is metaphorical weight. She cannot escape the station even at home. The flat is austere, suspended, reflecting her interior numbness.
+- **Irina's house — north quarter:** A different neighbourhood from Maren's, establishing physical distance between mother and daughter that mirrored their emotional distance. The damp patch on the kitchen wall is a detail Irina mentioned and never fixed — a small domestic failure that rhymes with larger ones.
+- **The tram — soul-powered plaque:** Ashward's tram network runs on the grid, with a small plaque noting this fact near the door. Nobody reads it. The infrastructure Maren maintains is not confined to the station; it is the city itself.
+- **Interior cold in the station:** The lower levels are perpetually cool regardless of season. Whether this is ventilation or something else is a question nobody asks — another instance of the world's horror lodged in what people choose not to investigate.
+
+## Rejected directions — Locations phase
+
+- **Multiple cities visited:** Considered having Maren travel to the capital or another city. Rejected — the story's claustrophobia depends on Ashward being Maren's entire world. The capital exists as an off-stage absence, the place where policy is made by people who never enter a containment hall.
+- **A countryside or natural setting:** Considered a scene outside the city (e.g., where unharvested souls disperse naturally). Rejected as it would break the story's urban-industrial register and introduce a pastoral contrast that feels too neat.
+- **Named streets and districts:** Considered giving Ashward's neighbourhoods and streets proper names. Kept them generic (eastern district, north quarter) to maintain the story's sense of undifferentiated industrial grey — Ashward is a type of city, not a tourist destination.
+- **A Bureau archive or library:** Considered a separate records facility where Maren might research her mother's intake. Rejected — the courier data-stick system established in the rules means records are local to each station, which keeps Maren's investigation confined to Station Nine and intensifies the pressure.
