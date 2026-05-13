@@ -28,15 +28,15 @@
 
 - **18 years before the story:** Maren completes secondary school, including the standard "civic energy" unit. She enrols in the six-month Conduit Technician's Licence programme. She does not think deeply about what the work entails. It is a steady job with adequate benefits.
 
-- **~14 years before the story (Maren, 22):** Maren begins work at Harvest Station Nine as a conduit technician. She is competent and quiet. During her second year, a containment seal fails during routine maintenance, burning her left forearm — the faded scar she carries through the story.
+- **~12 years before the story (Maren, 24):** Maren begins work at Harvest Station Nine as a conduit technician. She is competent and quiet. During her second year, a containment seal fails during routine maintenance, burning her left forearm — the faded scar she carries through the story.
 
 - **~8 years before the story:** Maren transfers to a permanent day-shift position in the monitoring centre. She and Jorin Dael begin working adjacent stations. The easy camaraderie between them develops over shared shifts and bad coffee. Maren stops reading names on intake forms around this time — the numbness is complete.
 
-- **~5 years before the story:** Maren moves into her one-bedroom flat in the eastern district, a ten-minute walk from Station Nine. Her visits to Irina's house in the north quarter grow less frequent. The distance between them — physical and emotional — widens without event or argument. Neither addresses it.
+- **~11 years before the story:** Maren moves into her one-bedroom flat in the eastern district, a ten-minute walk from Station Nine — her second year at the station. Her visits to Irina's house in the north quarter grow less frequent. The distance between them — physical and emotional — widens without event or argument. Neither addresses it.
 
 ## The Story's Present Action
 
-- **Several weeks before the story opens:** Irina Voss (age 61) dies. The cause is unremarkable — the kind of decline that fills actuarial tables. A Bureau field team performs the draw within the four-minute window. Irina's deferral petition — filed within the forty-eight-hour window by a neighbour or distant relative, or perhaps by no one — is either never processed, lost in paperwork, or quietly set aside. The result is the same: her soul enters the grid immediately, skipping the sixty-day deferral.
+- **Several weeks before the story opens:** Irina Voss (age 61) dies. The cause is unremarkable — the kind of decline that fills actuarial tables. A Bureau field team performs the draw within the four-minute window. Irina's deferral petition — filed within the forty-eight-hour window by a neighbour or distant relative — is either never processed, lost in paperwork, or quietly set aside. The result is the same: her soul enters the grid immediately, skipping the sixty-day deferral.
 
 - **Days before the story opens:** Irina's soul is transported to Harvest Station Nine and transferred into a permanent containment cell: **B1-4427**, eastern quadrant, second row, third from left. She is assigned to a high-draw cell — the station is running above capacity, as it has been for years. Erosion begins at an accelerated rate.
 

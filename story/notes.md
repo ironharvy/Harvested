@@ -105,6 +105,12 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **Night extraction:** The extraction happens at night (Supervisor Gren's shift), consistent with the locations bible's establishment of Gren as a scheduling obstacle.
 - **Single moment of recognition:** Irina's soul coalesces briefly — "a shape that is almost a woman" — before scattering. Consistent with the rules bible (suppression removal allows brief coalescence) and the spine's final beat (recognition for one dissolving moment).
 
+### Timeline editorial corrections — Issue #14, 2026-05-12
+
+- **Maren's start age corrected from 22 to 24:** The characters bible establishes twelve years of tenure at age 36, placing her start at 24. The original timeline entry said 22 (~14 years), creating a two-year discrepancy. Corrected to ~12 years before the story, age 24.
+- **Flat move-in date corrected from ~5 years to ~11 years:** The locations bible states Maren has lived in her flat "since her second year at the station." With a twelve-year tenure, that's ~11 years ago, not ~5. Corrected.
+- **Irina's deferral petition — hedge removed:** The characters bible establishes the petition was "filed within the window." The timeline had added "or perhaps by no one," which contradicts the established fact. Removed the hedge; the ambiguity remains in *why* it wasn't processed, not *whether* it was filed.
+
 ## Rejected directions — Timeline phase
 
 - **Longer present-action timeline (weeks or months):** Considered stretching the story over several weeks. Rejected — the accelerating erosion of Irina's soul creates natural urgency that a longer timeline would dissipate.
