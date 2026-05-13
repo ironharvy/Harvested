@@ -117,3 +117,25 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **Showing the Consolidation Wars in detail:** Considered a more detailed war-era backstory. Rejected — the wars are origin myth, not narrative. They explain where the technology came from; they don't need scenes.
 - **A specific triggering event for Ashward's decline:** Considered naming a factory closure or policy change. Kept the decline gradual and structural — no single villain or event, just the slow logic of capital moving to more efficient infrastructure. This parallels the story's systemic (not personal) evil.
 - **Maren witnessing Irina's death:** Considered opening the timeline with Maren present at her mother's deathbed. Rejected — their emotional distance is better served by Maren learning about the death after the fact, the way bureaucratic systems deliver news.
+
+### Chapter Plan phase — Issue #16, 2026-05-12
+
+- **12 chapters across three acts (4/5/3):** Chose a slightly asymmetric structure — Act 2 is the longest at five chapters, reflecting the story's emphasis on the slow tightening of bureaucratic and moral pressure rather than on action set-pieces.
+- **Act 1 ends on resolve, not plan:** Chapter 4 closes the setup with Maren's emotional decision (visiting Irina's house, choosing to act) rather than a logistical one. The planning belongs to Act 2 — the decision is personal, the execution is where confrontation lives.
+- **Chapter 8 as the moral pivot:** Placed the thematic expansion (every soul is someone's mother) in its own chapter rather than folding it into the extraction. This is where Maren's motivation widens from personal grief to systemic awareness, and it needed space.
+- **Leth gets two chapters (7 and 9):** The first is a gentle probe combined with the compliance audit narrowing Maren's window; the second is the direct confrontation. Two encounters let the relationship escalate — Leth's sincerity becomes more visible, and more frightening, the second time.
+- **Jorin's refusal in chapter 6:** Placed Jorin's bounded decency early in Act 2 so Maren's aloneness is established before the pressure intensifies. She enters the hardest stretch without an ally.
+- **Three-chapter resolution:** Kept Act 3 tight — infiltration, release, aftermath — to match the compressed pace of a night that has been building for ten days. No extended falling action; the story ends on the walk out.
+- **Single chapter for the release (11):** The soul's coalescence and dissolution happen in one chapter, not drawn out. The moment of recognition is brief by design (canon: the soul is too damaged for more). Extending it would betray the established rules.
+
+### Chapter Plan editorial corrections — Issue #16, 2026-05-12
+
+- **Act 2 consolidated from 6 to 5 chapters:** Merged the Leth gentle-inquiry chapter and the compliance-audit chapter into a single chapter (now chapter 7). Both scenes serve the same dramatic function — institutional pressure closing in — and combining them tightens Act 2 to the required 3–5 chapter range. All subsequent chapter numbers shifted down by one (total: 12 chapters).
+
+## Rejected directions — Chapter Plan phase
+
+- **A chapter for Maren witnessing the draw or intake process:** Considered a scene in the intake bay. Rejected — Maren's horror is in what she discovers through records, not what she witnesses firsthand. The intake bay is more powerful as a space she imagines than one she enters.
+- **Jorin actively helping with the extraction:** Considered giving Jorin a larger role in Act 3 (distraction, lookout). Rejected — his bounded decency is more honest and thematically important than a last-minute conversion to ally. Maren acts alone.
+- **A chapter for the abolitionist movement:** Considered introducing a broader political context through an encounter with abolitionists. Rejected — the story's power is in Maren's isolation. Outside allies would dilute the complicity theme.
+- **Splitting the extraction across two chapters:** Considered breaking the infiltration (chapter 10) and the release (chapter 11) into three chapters with a complication between them. Rejected — the extraction should feel like a single committed act, not a heist with setbacks.
+- **An epilogue chapter set weeks later:** Considered a time-skip coda showing consequences. Rejected — the story's ambiguity depends on ending in the immediate aftermath. "She does not go back" is the last thing we need to know.
