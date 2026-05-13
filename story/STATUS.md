@@ -13,6 +13,7 @@
 | 9 | Enhancers Guide | done | `story/enhancers.md` | merged | |
 | 10 | Chapters | done | `story/chapters/01–12` | merged | 12 chapters drafted |
 | 11 | Assemble & Publish | in-pr | `story/final.md` (+ published URL) | PR pending | Terminal phase |
+| — | Suno Audiobook — Ch 1 | in-pr | `story/audiobook/ch01-suno-prompts.md` | PR pending | 3 segments, music prompt |
 
 States: `todo` → `in-pr` (artifact written, PR open) → `done` (PR merged).
 
