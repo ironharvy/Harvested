@@ -153,3 +153,35 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **A chapter for the abolitionist movement:** Considered introducing a broader political context through an encounter with abolitionists. Rejected — the story's power is in Maren's isolation. Outside allies would dilute the complicity theme.
 - **Splitting the extraction across two chapters:** Considered breaking the infiltration (chapter 10) and the release (chapter 11) into three chapters with a complication between them. Rejected — the extraction should feel like a single committed act, not a heist with setbacks.
 - **An epilogue chapter set weeks later:** Considered a time-skip coda showing consequences. Rejected — the story's ambiguity depends on ending in the immediate aftermath. "She does not go back" is the last thing we need to know.
+
+### Chapters phase — Issue #20, 2026-05-13
+
+- **12 chapters drafted in order:** Each chapter written as full immersive prose with dialogue and description, consistent with all canon. Total word count approximately 11,000–12,000 words across the 12 chapters.
+- **Flourish distribution (4 of 12, ~33%):**
+  - Ch 1 — long scenery passage: extended description of Ashward's eastern district, Station Nine's exterior and interior, the tram ride, the hum as felt-in-the-teeth. Establishes the world's texture before the plot begins.
+  - Ch 4 — quirky object: Irina's half-finished crossword with three filled answers (*routine*, *patience*, *enough*) — thematically resonant domestic detail, placed naturally in the kitchen scene.
+  - Ch 8 — strange atmospheric detail / character tic: extended meditation on the amber readout lights as the colour of degradation, threaded through the chapter as both technical indicator and moral metaphor. Maren's shift from "cell numbers" to "someone" is built through the amber motif.
+  - Ch 11 — long atmospheric passage: the soul's coalescence and dispersal rendered as an extended, almost hallucinatory sequence — "a shape that is almost a woman, a light that is almost a face." The moment of recognition is left ambiguous per canon.
+- **Timeline compressed from 10 days to ~9 days:** After Leth's confrontation in Ch 9, Maren decides to act that same night rather than waiting the planned five days. The compliance flag and Leth's growing suspicion make delay untenable. This tightens the pacing for Act 3.
+- **Fenne the gate guard (new minor canon):** Named the day-shift security guard at Station Nine's gate — "old Fenne" — a one-line presence who waves Maren through without looking up. Establishes the station's routine entrance. Night guard is unnamed.
+- **Coffee machine as motif:** The bad coffee from the monitoring centre machine recurs across chapters as a marker of routine and normalcy — Maren drinks it without tasting it, and the machine's sounds punctuate break-room conversations.
+- **Leth's confrontation moved up:** Combined the gentle inquiry (originally Ch 7 in the plan) and the direct confrontation (originally Ch 9) into two distinct scenes — the first in Ch 7 and the second in Ch 9 — with the compliance audit notification arriving in Ch 7 between them. This matches the chapter plan's structure while giving Leth a natural escalation.
+- **Maren's walk past her flat:** In Ch 12, Maren walks past her own flat rather than entering it — a geographic detail that embodies her departure from the life she built inside the system.
+
+## Rejected directions — Chapters phase
+
+- **Maren physically destroying the intake record:** Considered having Maren delete or steal her mother's intake file to cover her tracks. Rejected — the story's ending requires that Maren accepts the consequences. The empty cell will be found; she is not trying to escape detection.
+- **A scene with Poul Hadren:** Considered a direct confrontation where Maren questions Poul about the deferral lapse. Rejected — the ambiguity of Poul's role (negligence vs. instruction vs. error) is more powerful unresolved. Maren looks at the paperwork and draws no conclusion, which is the point.
+- **Gren discovering Maren during the extraction:** Considered a near-miss or confrontation with the night supervisor in B1. Rejected — adding a chase or close-call would shift the tone from literary to thriller. The extraction's tension is internal, not procedural.
+- **Irina speaking during the coalescence:** Considered having the soul speak a word or phrase. Rejected — the recognition is more powerful as something felt rather than heard. "Maren" appears as an impression, not as speech, and the ambiguity of whether it was real is essential to the ending.
+
+### Chapters editorial corrections (round 2) — Issue #20, 2026-05-13
+
+- **Burn scar added (Ch 1 setup, Ch 8 payoff):** The character bible establishes a faded burn scar on Maren's left forearm from a containment seal failure in her second year. The enhancers plan explicitly marks it as a Ch 1 setup with payoff in later reflective chapters. Added: Ch 1 — Maren notices the scar when reaching into the cell rack during her B1 recalibration round. Ch 8 — the scar surfaces during Maren's moral reckoning as she reflects on twelve years of complicity; the scar is physical evidence of time served.
+- **Dispersal time clarified (Ch 11):** The manual's three-to-five-minute dispersal estimate and the actual ~90-second dispersal were implicitly explained by degradation but not explicitly connected. Added a clause attributing the accelerated dispersal to the high-draw extraction having already stripped the psychic substrate below the threshold the manual's estimate assumes.
+
+### Chapters editorial corrections — Issue #20, 2026-05-13
+
+- **Gren's discovery timing fixed (Ch 12):** Original text said Gren would notice the empty cell "by morning." Ch 10 establishes Gren's rounds cycle B2 → B1 in ~40 minutes. Since Maren exits at 11:11 PM and Gren started her B2 round at ~10:30, Gren would reach B1 within the hour — that same night, not the next morning. Corrected to "within the hour."
+- **Dawn imagery removed (Ch 12):** Original text shifted into dawn/morning imagery (lightening sky, bakery lights, trams starting full service) despite the scene taking place around 11:30 PM. Replaced with deep-night imagery consistent with the established timeline. The chapter title "The Grey Ashward Dawn" is retained as metaphor for Maren's personal awakening.
+- **Intake record placeholders filled (Ch 2):** `DOD: [date]. Siphon: [date].` replaced with `DOD: 14.09. Siphon: 14.09.` — same-day processing reinforces the zero-deferral horror established in canon.
