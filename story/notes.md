@@ -94,3 +94,20 @@ Append-only working notes. Every phase that establishes new canon (names, places
 - **A countryside or natural setting:** Considered a scene outside the city (e.g., where unharvested souls disperse naturally). Rejected as it would break the story's urban-industrial register and introduce a pastoral contrast that feels too neat.
 - **Named streets and districts:** Considered giving Ashward's neighbourhoods and streets proper names. Kept them generic (eastern district, north quarter) to maintain the story's sense of undifferentiated industrial grey — Ashward is a type of city, not a tourist destination.
 - **A Bureau archive or library:** Considered a separate records facility where Maren might research her mother's intake. Rejected — the courier data-stick system established in the rules means records are local to each station, which keeps Maren's investigation confined to Station Nine and intensifies the pressure.
+
+### World Bible — Timeline phase — Issue #14, 2026-05-12
+
+- **Timeline span:** Covers ~200 years of backstory plus ~11 days of present action. The deep history (Consolidation Wars → ghost light discovery → Civic Contribution Act → industrial expansion) is kept sparse — enough to ground the world's origin without info-dumping.
+- **Story duration — ~11 days:** Chose a compressed timeline for the present action. The discovery-to-extraction arc spans roughly ten days, with escalating pressure. Long enough for Maren to plan and for Leth to grow suspicious; short enough that Irina's accelerating erosion feels urgent.
+- **Irina's death — "several weeks" before the story opens:** Placed her death slightly before the narrative begins so that by Day 1 her soul is already in the system and degrading. The story opens on discovery, not on grief — Maren's numbness has already absorbed the death itself.
+- **Deferral ambiguity preserved:** The timeline deliberately leaves the cause of the deferral lapse unresolved ("never processed, lost in paperwork, or quietly set aside"), consistent with Poul Hadren's role as established in the characters bible.
+- **Confrontation with Leth on Day 9–10:** Placed the director's patient, sincere confrontation just before the extraction to maximise dramatic tension — Leth gives Maren one last chance to stay within the system, and she refuses it silently.
+- **Night extraction:** The extraction happens at night (Supervisor Gren's shift), consistent with the locations bible's establishment of Gren as a scheduling obstacle.
+- **Single moment of recognition:** Irina's soul coalesces briefly — "a shape that is almost a woman" — before scattering. Consistent with the rules bible (suppression removal allows brief coalescence) and the spine's final beat (recognition for one dissolving moment).
+
+## Rejected directions — Timeline phase
+
+- **Longer present-action timeline (weeks or months):** Considered stretching the story over several weeks. Rejected — the accelerating erosion of Irina's soul creates natural urgency that a longer timeline would dissipate.
+- **Showing the Consolidation Wars in detail:** Considered a more detailed war-era backstory. Rejected — the wars are origin myth, not narrative. They explain where the technology came from; they don't need scenes.
+- **A specific triggering event for Ashward's decline:** Considered naming a factory closure or policy change. Kept the decline gradual and structural — no single villain or event, just the slow logic of capital moving to more efficient infrastructure. This parallels the story's systemic (not personal) evil.
+- **Maren witnessing Irina's death:** Considered opening the timeline with Maren present at her mother's deathbed. Rejected — their emotional distance is better served by Maren learning about the death after the fact, the way bureaucratic systems deliver news.
